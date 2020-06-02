@@ -34,11 +34,11 @@
 ## Ход работы
 
 1. Устанавливаем необходимые для лабораторной компоненты. Скачиваем на компьютер JDK 8, Android Studio. В Android Studio заходим в SDK и устонавливаем недостающие компоненты.
-2. В QT и в настройках android указываем путь на скаченные нами JDK, SDK и NDK.\
-![Изображение#1](https://raw.githubusercontent.com/GachiGucciGhoul/Laboratory_works/master/Lab8/images/1.jpg)\
+2. Выполняем настройку Qt Creator. В настройках Android указываем путь на JDK, SDK и NDK.\
+![Рисунок 1](https://github.com/DaraPiht/Laba8/blob/master/PV6TJpSFfoo.jpg)\
 *Рис.1 Настройка Qt*
 5. Из примеров Qt выбираем произвольный проект и настраиваем его сборку на android. Я выбрал Qt SCXML Calculator QML Example.\
-![Изображение#2](https://raw.githubusercontent.com/GachiGucciGhoul/Laboratory_works/master/Lab8/images/4.PNG)\
+![Рисунок 2](https://raw.githubusercontent.com/GachiGucciGhoul/Laboratory_works/master/Lab8/images/4.PNG)\
 *Рис.2 Пример калькулятора для андроид.*
 
 6. В QT запускаем отладку. Нам предлагается выбрать один из запущенных эмуляторов или подключенных телефонов. Я запускал приложение через телефон, подключенный по USB.\
