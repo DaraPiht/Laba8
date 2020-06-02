@@ -33,20 +33,16 @@
 
 ## Ход работы
 
-1. Устанавливаем необходимые для лабораторной компоненты. Скачиваем на компьютер JDK 8, Android Studio. В Android Studio заходим в SDK и устонавливаем недостающие компоненты.
+1. Устанавливаем необходимые для лабораторной компоненты. Скачиваем на компьютер JDK 8, Android Studio. В Android Studio заходим в SDK и устанавливаем недостающие компоненты.
 2. Выполняем настройку Qt Creator. В настройках Android указываем путь на JDK, SDK и NDK.\
 ![Рисунок 1](https://github.com/DaraPiht/Laba8/blob/master/PV6TJpSFfoo.jpg)\
 *Рис.1 Настройка Qt*
-5. Из примеров Qt выбираем произвольный проект и настраиваем его сборку на android. Я выбрал Qt SCXML Calculator QML Example.\
-![Рисунок 2](https://raw.githubusercontent.com/GachiGucciGhoul/Laboratory_works/master/Lab8/images/4.PNG)\
-*Рис.2 Пример калькулятора для андроид.*
-
-6. В QT запускаем отладку. Нам предлагается выбрать один из запущенных эмуляторов или подключенных телефонов. Я запускал приложение через телефон, подключенный по USB.\
-![Изображение#3](https://raw.githubusercontent.com/GachiGucciGhoul/Laboratory_works/master/Lab8/images/2.jpg)\
-*Рис.3 Установка приложения на android телефон.*\
+5. Из примеров Qt выбираем проект "Калькулятор" и настраиваем его сборку на Аndroid( выполняем отладку, запускаем через подключенный телефон).\
+![Рисунок 2](https://github.com/DaraPiht/Laba8/blob/master/BIVwbTDXMrU.jpg)\
+*Рис.2 Установка приложения на Аndroid телефон.*\
 После подтверждения установки на телефоне у нас открывается приложение.\
-![Изображение#4](https://raw.githubusercontent.com/GachiGucciGhoul/Laboratory_works/master/Lab8/images/3.jpg)\
-*Рис.4 Скриншот запущенного калькулятора на телефоне.*
+![Рисунок 3](https://raw.githubusercontent.com/GachiGucciGhoul/Laboratory_works/master/Lab8/images/3.jpg)\
+*Рис.3 Скриншот запущенного калькулятора на телефоне.*
 
-## Вывод
+## Вывод: 
 В ходе выполнения данной лабораторной работы я установил компоненты, необходимые для android разработки, настроил Qt для работы с android и научился создавать мобильные приложения при помощи фреймворка Qt 5.14.
